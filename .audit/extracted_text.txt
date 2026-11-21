@@ -1,0 +1,148 @@
+Noteflow â Your thoughts, beautifully organized
+Noteflow
+Features
+How it works
+About
+Login
+Get Started
+YOUR PERSONAL DIGITAL NOTEBOOK
+Your
+thoughts.
+Beautifully
+organized.
+A calm, intelligent space for everything on your mind. Capture ideas, organize your thoughts, and return to what matters.
+Start writing
+Explore the experience
+Machine Learning Revision
+Nov 20
+â¢ Gradient Descent optimization
+â¢ Backpropagation fundamentals
+â¢ Neural network architectures
+â¢ Regularization techniques
+Project Ideas
+â Campus navigation app
+â ML stress detection
+â UrbanPulse dashboard
+â Portfolio redesign
+Weekend Plans
+â Morning run at the park
+â Finish ML textbook ch.4
+â Guitar practice â 30 min
+â Flight check-in reminder
+Things to Remember
+Call advisor about thesis
+Submit lab reports by Friday
+Book haircut appointment
+48 notes synced
+|
+Â·  Instant capture
+Â·  Beautiful notes
+Â·  Smart search
+Â·  Calm workspace
+Â·  Synced everywhere
+Â·  Zero friction
+Â·  Your ideas, organized
+C
+A
+P
+T
+U
+R
+E
+Every
+thought
+deserves
+a
+place.
+Capture fleeting thoughts before they vanish. Noteflow gives you a frictionless space to get ideas out of your head and into a place you can always return to.
+/
+Instant capture
+Press a shortcut and start writing. Zero friction between your thought and the note.
+#
+Smart organization
+Notes automatically surface when you need them. Powerful search across all your content.
+â
+Calm workspace
+A focused, distraction-free environment designed to help you think clearly.
+ML Revision
+Project Ideas
+Weekend Plans
+Research Notes
+Book Summary
+Daily Journal
+ORGANIZE
+From
+scattered
+ideas
+to
+clear
+thinking.
+Noteflow intelligently organizes your notes so you can find exactly what youâre looking for â even when you donât remember where you put it.
+10Ã
+Faster recall
+â
+Notes, no limits
+1 tap
+To capture
+YOUR WORKSPACE
+A
+personal
+workspace
+built
+to
+think
+in.
+Noteflow
+All Notes
+Recent
+Starred
+Trash
+TAGS
+#machine-learning
+#projects
+#personal
+#research
+â
+Search notesâ¦
++ New Note
+Nov 20
+Machine Learning Revision
+Gradient descent, backprop, CNNs, transformers â revision notes for finals
+#machine-learning
+Nov 20
+Project Ideas
+Campus nav app, stress detection with WESAD dataset, urban planning MERN stack
+#projects
+Nov 20
+Weekend Plans
+Morning run, finish reading, guitar session, check flight details
+#personal
+Nov 20
+Research Notes
+VitaStress dataset â multimodal gated fusion architecture notes
+#research
+Nov 20
+Things to Remember
+Call advisor, submit lab report Friday, haircut appointment next week
+#personal
+Nov 20
+Daily Journal
+Reflecting on the day â grateful for productive study session
+#personal
+Free to start. No credit card required.
+Make
+space
+for
+your
+next
+idea.
+Join thousands of thinkers whoâve found a calmer way to work.
+Start writing â itâs free
+Noteflow
+Your thoughts, beautifully organized.
+Â© 2026 Noteflow. Built with care.
+Features
+How it works
+About
+Login
+Create a free website with Framer, the website builder loved by startups, designers and agencies.
