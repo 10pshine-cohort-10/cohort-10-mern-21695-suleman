@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Navbar } from './components/Navbar';
 import { Hero } from './components/Hero';
 import { Ticker } from './components/Ticker';
@@ -7,26 +7,56 @@ import { Organize } from './components/Organize';
 import { ProductPreview } from './components/ProductPreview';
 import { CTA } from './components/CTA';
 import { Footer } from './components/Footer';
-import { AuthModal } from './components/AuthModal';
+import { LoginPage } from './pages/LoginPage';
+import { SignupPage } from './pages/SignupPage';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Check } from 'lucide-react';
 
 export const App: React.FC = () => {
-  const [authModalOpen, setAuthModalOpen] = useState(false);
-  const [authMode, setAuthMode] = useState<'login' | 'signup'>('login');
+  const [currentPath, setCurrentPath] = useState<string>(() => {
+    if (typeof window !== 'undefined') {
+      const path = window.location.pathname;
+      if (path.includes('login')) return '/login';
+      if (path.includes('signup')) return '/signup';
+    }
+    return '/';
+  });
+
   const [currentUser, setCurrentUser] = useState<{
     name: string;
     email: string;
   } | null>(null);
 
+  // Sync route state with browser back/forward buttons
+  useEffect(() => {
+    const handlePopState = () => {
+      const path = window.location.pathname;
+      if (path.includes('login')) {
+        setCurrentPath('/login');
+      } else if (path.includes('signup')) {
+        setCurrentPath('/signup');
+      } else {
+        setCurrentPath('/');
+      }
+    };
+
+    window.addEventListener('popstate', handlePopState);
+    return () => window.removeEventListener('popstate', handlePopState);
+  }, []);
+
+  const navigate = (path: string) => {
+    window.history.pushState({}, '', path);
+    setCurrentPath(path);
+    window.scrollTo({ top: 0, behavior: 'instant' });
+  };
+
   const handleOpenAuth = (mode: 'login' | 'signup') => {
-    setAuthMode(mode);
-    setAuthModalOpen(true);
+    navigate(`/${mode}`);
   };
 
   return (
     <div className="min-h-screen bg-[#0a0a0f] text-[#f5f4f0] flex flex-col font-sans selection:bg-[#7c6fff] selection:text-white relative">
-      {/* Toast Notification when user logs in */}
+      {/* Toast Notification when user logs in or signs up */}
       <AnimatePresence>
         {currentUser && (
           <motion.div
@@ -46,29 +76,40 @@ export const App: React.FC = () => {
         )}
       </AnimatePresence>
 
-      <Navbar onOpenAuth={handleOpenAuth} />
+      {/* Route Views */}
+      {currentPath === '/login' ? (
+        <LoginPage
+          onNavigate={navigate}
+          onLoginSuccess={(user) => {
+            const displayName = user.email.split('@')[0];
+            setCurrentUser({ name: displayName, email: user.email });
+            setTimeout(() => setCurrentUser(null), 5000);
+          }}
+        />
+      ) : currentPath === '/signup' ? (
+        <SignupPage
+          onNavigate={navigate}
+          onSignupSuccess={(user) => {
+            setCurrentUser(user);
+            setTimeout(() => setCurrentUser(null), 5000);
+          }}
+        />
+      ) : (
+        <>
+          <Navbar onOpenAuth={handleOpenAuth} />
 
-      <main className="flex-1 flex flex-col pt-[72px]">
-        <Hero onOpenAuth={handleOpenAuth} />
-        <Ticker />
-        <Features />
-        <Organize />
-        <ProductPreview />
-        <CTA onOpenAuth={handleOpenAuth} />
-      </main>
+          <main className="flex-1 flex flex-col pt-[72px]">
+            <Hero onOpenAuth={handleOpenAuth} />
+            <Ticker />
+            <Features />
+            <Organize />
+            <ProductPreview />
+            <CTA onOpenAuth={handleOpenAuth} />
+          </main>
 
-      <Footer onOpenAuth={handleOpenAuth} />
-
-      {/* Modern & Animated Login / Signup Modal */}
-      <AuthModal
-        isOpen={authModalOpen}
-        initialMode={authMode}
-        onClose={() => setAuthModalOpen(false)}
-        onSuccess={(user) => {
-          setCurrentUser(user);
-          setTimeout(() => setCurrentUser(null), 5000);
-        }}
-      />
+          <Footer onOpenAuth={handleOpenAuth} />
+        </>
+      )}
     </div>
   );
 };

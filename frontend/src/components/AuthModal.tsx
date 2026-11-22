@@ -34,14 +34,15 @@ export const AuthModal: React.FC<AuthModalProps> = ({
   const [loading, setLoading] = useState(false);
   const [success, setSuccess] = useState(false);
 
-  // Sync initialMode when modal opens
-  React.useEffect(() => {
+  const [prevOpenState, setPrevOpenState] = useState({ isOpen, initialMode });
+  if (prevOpenState.isOpen !== isOpen || prevOpenState.initialMode !== initialMode) {
+    setPrevOpenState({ isOpen, initialMode });
     if (isOpen) {
       setMode(initialMode);
       setSuccess(false);
       setLoading(false);
     }
-  }, [isOpen, initialMode]);
+  }
 
   // Escape key handler
   React.useEffect(() => {
