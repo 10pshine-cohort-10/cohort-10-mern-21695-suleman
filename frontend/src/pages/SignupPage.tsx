@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { ArrowLeft, Eye, EyeOff, Check } from 'lucide-react';
+import { authApi } from '../lib/authApi';
 
 interface SignupPageProps {
   onNavigate: (path: string) => void;
@@ -18,18 +19,27 @@ export const SignupPage: React.FC<SignupPageProps> = ({
   const [showPassword, setShowPassword] = useState(false);
   const [agreedToTerms, setAgreedToTerms] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
+  const [error, setError] = useState('');
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!email || !password || !agreedToTerms) return;
 
+    setError('');
     setIsLoading(true);
-    setTimeout(() => {
-      setIsLoading(false);
-      const fullName = [firstName, lastName].filter(Boolean).join(' ') || email.split('@')[0];
-      onSignupSuccess?.({ name: fullName, email });
+    try {
+      const res = await authApi.register({ firstName, lastName, email, password });
+      const displayName =
+        res.user
+          ? [res.user.firstName, res.user.lastName].filter(Boolean).join(' ') || res.user.email
+          : email.split('@')[0];
+      onSignupSuccess?.({ name: displayName, email: res.user?.email ?? email });
       onNavigate('/');
-    }, 900);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Sign up failed. Please try again.');
+    } finally {
+      setIsLoading(false);
+    }
   };
 
   const featureList = [
@@ -278,6 +288,16 @@ export const SignupPage: React.FC<SignupPageProps> = ({
                 I agree to the Terms of Service and Privacy Policy
               </label>
             </div>
+
+            {/* Error Banner */}
+            {error && (
+              <div
+                role="alert"
+                className="rounded-[10px] px-4 py-3 text-[13px] text-red-300 bg-red-900/20 border border-red-500/30"
+              >
+                {error}
+              </div>
+            )}
 
             {/* Submit Button (Exact 50px height from Framer) */}
             <motion.button

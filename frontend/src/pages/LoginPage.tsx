@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { ArrowLeft, Eye, EyeOff } from 'lucide-react';
+import { authApi } from '../lib/authApi';
 
 interface LoginPageProps {
   onNavigate: (path: string) => void;
@@ -15,17 +16,23 @@ export const LoginPage: React.FC<LoginPageProps> = ({
   const [password, setPassword] = useState('');
   const [showPassword, setShowPassword] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
+  const [error, setError] = useState('');
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!email || !password) return;
 
+    setError('');
     setIsLoading(true);
-    setTimeout(() => {
-      setIsLoading(false);
-      onLoginSuccess?.({ email });
+    try {
+      const res = await authApi.login({ email, password });
+      onLoginSuccess?.({ email: res.user?.email ?? email });
       onNavigate('/');
-    }, 900);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Login failed. Please try again.');
+    } finally {
+      setIsLoading(false);
+    }
   };
 
   return (
@@ -224,6 +231,16 @@ export const LoginPage: React.FC<LoginPageProps> = ({
                 </button>
               </div>
             </div>
+
+            {/* Error Banner */}
+            {error && (
+              <div
+                role="alert"
+                className="rounded-[10px] px-4 py-3 text-[13px] text-red-300 bg-red-900/20 border border-red-500/30"
+              >
+                {error}
+              </div>
+            )}
 
             {/* Submit Button (Exact 50px height from Framer) */}
             <motion.button
