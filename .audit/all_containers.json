@@ -1,0 +1,1340 @@
+[
+  {
+    "tag": "nav",
+    "name": "Navbar",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Logo",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Nav Links",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Features link",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "How it works link",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "About link",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Nav Right",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Login button",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Get Started Button",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "CTA Text",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "section",
+    "name": "Hero Section",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Hero Left",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Hero Label Wrapper",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(16px)"
+  },
+  {
+    "tag": "div",
+    "name": "Label Text",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Hero Headline",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(30px)"
+  },
+  {
+    "tag": "div",
+    "name": "Hero Subtitle",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(20px)"
+  },
+  {
+    "tag": "div",
+    "name": "CTA Row",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(16px)"
+  },
+  {
+    "tag": "div",
+    "name": "Primary CTA",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Primary CTA Text",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "a",
+    "name": "Secondary CTA",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Secondary CTA Text",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Hero Right â Notes Scene",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Main Note",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(40px) scale(0.95) rotate(-3deg)"
+  },
+  {
+    "tag": "div",
+    "name": "Note Header",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Note Title",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Date",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Body",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Accent",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Note 2",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(-30px) scale(0.93) rotate(4deg)"
+  },
+  {
+    "tag": "div",
+    "name": "Note 2 Title",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note 2 Body",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note 3",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(50px) scale(0.92) rotate(2deg)"
+  },
+  {
+    "tag": "div",
+    "name": "Note 3 Title",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note 3 Body",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note 4 â Small",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(30px) scale(0.95) rotate(-2deg)"
+  },
+  {
+    "tag": "div",
+    "name": "Note 4 Title",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note 4 Body",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Floating Tag",
+    "className": "",
+    "style": "opacity:1;transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Floating Tag Text",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Floating Cursor",
+    "className": "",
+    "style": "opacity:1;transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Cursor Icon",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Hero Shader Wrap",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Hero Gradient Shader",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Hero Bottom Fade",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Notes Scene Glow",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Trusted Strip",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Ticker Inner",
+    "className": "",
+    "style": "overflow-x:clip;display:flex;position:relative"
+  },
+  {
+    "tag": "div",
+    "name": "Ticker â â¦  Instant capture",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Ticker â â¦  Beautiful notes",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Ticker â â¦  Smart search",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Ticker â â¦  Calm workspace",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Ticker â â¦  Synced everywhere",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Ticker â â¦  Zero friction",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Ticker â â¦  Your ideas, organized",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Section Divider 1",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "section",
+    "name": "Section â Capture",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "S1 Header",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "S1 Eyebrow",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "S1 Headline",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(24px)"
+  },
+  {
+    "tag": "div",
+    "name": "S1 Subtext",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(12px)"
+  },
+  {
+    "tag": "div",
+    "name": "Feature Cards",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Feature Card â Instant capture",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(32px) scale(0.95)"
+  },
+  {
+    "tag": "div",
+    "name": "Icon Wrap",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Icon",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Card Title",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Card Body",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Feature Card â Smart organization",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(32px) scale(0.95)"
+  },
+  {
+    "tag": "div",
+    "name": "Icon Wrap",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Icon",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Card Title",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Card Body",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Feature Card â Calm workspace",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(32px) scale(0.95)"
+  },
+  {
+    "tag": "div",
+    "name": "Icon Wrap",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Icon",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Card Title",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Card Body",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "section",
+    "name": "Section â Organize",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Organize Visual",
+    "className": "",
+    "style": "will-change:transform;opacity:0.6;transform:translateY(30px)"
+  },
+  {
+    "tag": "div",
+    "name": "Mini Row 1",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Mini Note â ML Revision",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(16px) scale(0.9)"
+  },
+  {
+    "tag": "div",
+    "name": "Dot",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Mini Note Label",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Line 1",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Line 2",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Mini Note â Project Ideas",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(16px) scale(0.9)"
+  },
+  {
+    "tag": "div",
+    "name": "Dot",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Mini Note Label",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Line 1",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Line 2",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Mini Row 2",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Mini Note â Weekend Plans",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(16px) scale(0.9)"
+  },
+  {
+    "tag": "div",
+    "name": "Dot",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Mini Note Label",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Line 1",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Line 2",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Mini Note â Research Notes",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(16px) scale(0.9)"
+  },
+  {
+    "tag": "div",
+    "name": "Dot",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Mini Note Label",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Line 1",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Line 2",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Mini Row 3",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Mini Note â Book Summary",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(16px) scale(0.9)"
+  },
+  {
+    "tag": "div",
+    "name": "Dot",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Mini Note Label",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Line 1",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Line 2",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Mini Note â Daily Journal",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(16px) scale(0.9)"
+  },
+  {
+    "tag": "div",
+    "name": "Dot",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Mini Note Label",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Line 1",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Line 2",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Organize Text",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Org Eyebrow",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Org Headline",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(24px)"
+  },
+  {
+    "tag": "div",
+    "name": "Org Subtext",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(14px)"
+  },
+  {
+    "tag": "div",
+    "name": "Stat Row",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Stat â Faster recall",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(20px)"
+  },
+  {
+    "tag": "div",
+    "name": "Stat Number",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Stat Label",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Stat â Notes, no limits",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(20px)"
+  },
+  {
+    "tag": "div",
+    "name": "Stat Number",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Stat Label",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Stat â To capture",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(20px)"
+  },
+  {
+    "tag": "div",
+    "name": "Stat Number",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Stat Label",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Divider 2",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "section",
+    "name": "Section â Product Preview",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Product Header",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Prod Eyebrow",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Prod Headline",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(24px)"
+  },
+  {
+    "tag": "div",
+    "name": "App Shell",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(60px) scale(0.97)"
+  },
+  {
+    "tag": "div",
+    "name": "App Sidebar",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Sidebar Brand",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Nav â All Notes",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "All Notes label",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Nav â Recent",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Recent label",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Nav â Starred",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Starred label",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Nav â Trash",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Trash label",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Tags Title",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Tag #machine-learning",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Tag #projects",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Tag #personal",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Tag #research",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "App Main",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "App Top Bar",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Search Bar",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Search Icon",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Search Placeholder",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "New Note Button",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "New Note Text",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Notes Grid",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Note â Machine Learning Revision",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(16px) scale(0.95)"
+  },
+  {
+    "tag": "div",
+    "name": "Note Card Header",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Color Dot",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Time",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Card Title",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Card Preview",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Tag",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note â Project Ideas â¦",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(16px) scale(0.95)"
+  },
+  {
+    "tag": "div",
+    "name": "Note Card Header",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Color Dot",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Time",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Card Title",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Card Preview",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Tag",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note â Weekend Plans",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(16px) scale(0.95)"
+  },
+  {
+    "tag": "div",
+    "name": "Note Card Header",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Color Dot",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Time",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Card Title",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Card Preview",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Tag",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note â Research Notes",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(16px) scale(0.95)"
+  },
+  {
+    "tag": "div",
+    "name": "Note Card Header",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Color Dot",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Time",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Card Title",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Card Preview",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Tag",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note â Things to Remember",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(16px) scale(0.95)"
+  },
+  {
+    "tag": "div",
+    "name": "Note Card Header",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Color Dot",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Time",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Card Title",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Card Preview",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Tag",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note â Daily Journal",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(16px) scale(0.95)"
+  },
+  {
+    "tag": "div",
+    "name": "Note Card Header",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Color Dot",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Time",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Card Title",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Card Preview",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Note Tag",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Product Section Glow",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "section",
+    "name": "Section â Final CTA",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "CTA Badge",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:scale(0.9)"
+  },
+  {
+    "tag": "div",
+    "name": "Badge Text",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "CTA Headline",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(32px)"
+  },
+  {
+    "tag": "div",
+    "name": "CTA Subtext",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(14px)"
+  },
+  {
+    "tag": "div",
+    "name": "CTA Buttons",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Final CTA Button",
+    "className": "",
+    "style": "will-change:transform;opacity:0;transform:translateY(10px) scale(0.9)"
+  },
+  {
+    "tag": "div",
+    "name": "Final CTA Text",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "CTA Center Glow",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "footer",
+    "name": "Footer",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Footer Left",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Footer Brand",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Footer Tagline",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Copyright",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Footer Right",
+    "className": "",
+    "style": ""
+  },
+  {
+    "tag": "div",
+    "name": "Footer â Features",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Footer â How it works",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Footer â About",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "div",
+    "name": "Footer â Login",
+    "className": "",
+    "style": "transform:none"
+  },
+  {
+    "tag": "a",
+    "name": "Light",
+    "className": "",
+    "style": "will-change:transform;pointer-events:auto;opacity:0.001;transform:translateY(10px)"
+  },
+  {
+    "tag": "div",
+    "name": "Backdrop",
+    "className": "",
+    "style": "background-color:rgb(255, 255, 255);border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px;box-shadow:0px 0.6021873017743928px 1.5656869846134214px -1.5px rgba(0, 0, 0, 0.17), 0px 2.288533303243457px 5.950186588432988px -3px rgba(0, 0, 0, 0.14), 0px 10px 26px -4.5px rgba(0, 0, 0, 0.02)"
+  },
+  {
+    "tag": "div",
+    "name": "Content",
+    "className": "",
+    "style": "transform:translate(-50%, -50%)"
+  },
+  {
+    "tag": "div",
+    "name": "Logo",
+    "className": "framer-hcsc7 framer-e50co",
+    "style": "--1bd4d3i:rgb(0, 0, 0);--otdjsv:rgb(0, 0, 0);transform:translateX(-50%)"
+  },
+  {
+    "tag": "div",
+    "name": "Text",
+    "className": "framer-g7oZR framer-1um7t9d",
+    "style": "--1bd4d3i:rgb(0, 0, 0);--otdjsv:rgb(0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "name": "Bottom",
+    "className": "",
+    "style": "mask:linear-gradient(180deg, rgba(0,0,0,0) 65%, rgba(0,0,0,1) 100%) add;-webkit-mask:linear-gradient(180deg, rgba(0,0,0,0) 65%, rgba(0,0,0,1) 100%) add;border-bottom-left-radius:11px;border-bottom-right-radius:11px;border-top-left-radius:11px;border-top-right-radius:11px;box-shadow:inset 0px 0px 0px 1px rgb(0, 0, 0);opacity:0.06"
+  },
+  {
+    "tag": "div",
+    "name": "Border",
+    "className": "",
+    "style": "border-bottom-left-radius:11px;border-bottom-right-radius:11px;border-top-left-radius:11px;border-top-right-radius:11px;box-shadow:inset 0px 0px 0px 1px rgb(0, 0, 0);opacity:0.04"
+  }
+]

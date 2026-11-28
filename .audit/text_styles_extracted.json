@@ -1,0 +1,1440 @@
+[
+  {
+    "tag": "p",
+    "text": "Noteflow",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "20px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "700",
+      "letter-spacing": "-0.5px",
+      "line-height": "1em",
+      "text-color": "rgb(255, 255, 255)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Features",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "14px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(255, 255, 255, 0.6)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "How it works",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "14px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(255, 255, 255, 0.6)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "About",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "14px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(255, 255, 255, 0.6)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Login",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "14px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(255,255,255,0.65)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Get Started",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "14px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "500",
+      "line-height": "1em",
+      "text-color": "#FFFFFF"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "YOUR PERSONAL DIGITAL NOTEBOOK",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "11px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "0.08em",
+      "line-height": "1em",
+      "text-color": "#9B8FFF",
+      "text-transform": "uppercase"
+    }
+  },
+  {
+    "tag": "h1",
+    "text": "Your thoughts. Beautifully organized.",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "60px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "700",
+      "letter-spacing": "-1.8px",
+      "line-height": "1.08em",
+      "text-color": "rgb(245, 244, 240)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "A calm, intelligent space for everything on your mind. Capture ideas, organize your thoughts, and return to what matters.",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "18px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "letter-spacing": "0px",
+      "line-height": "1.65em",
+      "text-color": "rgba(245, 244, 240, 0.55)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Start writing",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "16px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "500",
+      "line-height": "1em",
+      "text-color": "#FFFFFF"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Explore the experience",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "16px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(245,244,240,0.75)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Machine Learning Revision",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "15px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "-0.3px",
+      "line-height": "1.2em",
+      "text-color": "#1A1A2E"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Nov 20",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "11px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(26,26,46,0.4)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "â¢ Gradient Descent optimization â¢ Backpropagation fundamentals â¢ Neural network architectures â¢ Regularization techniques",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1.75em",
+      "text-color": "rgba(26,26,46,0.65)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Project Ideas",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "14px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "line-height": "1.2em",
+      "text-color": "rgb(45, 27, 105)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "â Campus navigation app â ML stress detection â UrbanPulse dashboard â Portfolio redesign",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "12px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1.65em",
+      "text-color": "rgba(45,27,105,0.6)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Weekend Plans",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "14px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "line-height": "1.2em",
+      "text-color": "#2A1800"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "â Morning run at the park â Finish ML textbook ch.4 â Guitar practice â 30 min â Flight check-in reminder",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "11.5px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1.65em",
+      "text-color": "rgba(42, 24, 0, 0.6)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Things to Remember",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "line-height": "1.2em",
+      "text-color": "#0A2A4A"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Call advisor about thesis Submit lab reports by Friday Book haircut appointment",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "11px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1.6em",
+      "text-color": "rgba(10,42,74,0.55)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "48 notes synced",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "12px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "500",
+      "line-height": "1em",
+      "text-color": "rgb(255, 255, 255)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "|",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "18px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "300",
+      "letter-spacing": "0px",
+      "line-height": "1em",
+      "text-alignment": "center",
+      "text-color": "rgba(255,255,255,0.75)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Â· Instant capture",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "letter-spacing": "0.02em",
+      "line-height": "1em",
+      "text-color": "rgba(245, 244, 240, 0.35)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Â· Beautiful notes",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "letter-spacing": "0.02em",
+      "line-height": "1em",
+      "text-color": "rgba(245, 244, 240, 0.35)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Â· Smart search",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "letter-spacing": "0.02em",
+      "line-height": "1em",
+      "text-color": "rgba(245, 244, 240, 0.35)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Â· Calm workspace",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "letter-spacing": "0.02em",
+      "line-height": "1em",
+      "text-color": "rgba(245, 244, 240, 0.35)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Â· Synced everywhere",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "letter-spacing": "0.02em",
+      "line-height": "1em",
+      "text-color": "rgba(245, 244, 240, 0.35)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Â· Zero friction",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "letter-spacing": "0.02em",
+      "line-height": "1em",
+      "text-color": "rgba(245, 244, 240, 0.35)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Â· Your ideas, organized",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "letter-spacing": "0.02em",
+      "line-height": "1em",
+      "text-color": "rgba(245, 244, 240, 0.35)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "C A P T U R E",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "11px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "0.1em",
+      "line-height": "1em",
+      "text-alignment": "center",
+      "text-color": "#9B8FFF",
+      "text-transform": "uppercase"
+    }
+  },
+  {
+    "tag": "h2",
+    "text": "Every thought deserves a place.",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "52px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "700",
+      "letter-spacing": "-1.5px",
+      "line-height": "1.1em",
+      "text-alignment": "center",
+      "text-color": "#F5F4F0"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Capture fleeting thoughts before they vanish. Noteflow gives you a frictionless space to get ideas out of your head and into a place you can always return to.",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "17px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1.65em",
+      "text-alignment": "center",
+      "text-color": "rgba(245,244,240,0.5)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "/",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "22px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "300",
+      "line-height": "1em",
+      "text-alignment": "center",
+      "text-color": "#7C6FFF"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Instant capture",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "17px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "-0.3px",
+      "line-height": "1.2em",
+      "text-color": "#F5F4F0"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Press a shortcut and start writing. Zero friction between your thought and the note.",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "14px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1.65em",
+      "text-color": "rgba(245,244,240,0.5)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "#",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "20px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "300",
+      "line-height": "1em",
+      "text-alignment": "center",
+      "text-color": "#7C6FFF"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Smart organization",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "17px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "-0.3px",
+      "line-height": "1.2em",
+      "text-color": "#F5F4F0"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Notes automatically surface when you need them. Powerful search across all your content.",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "14px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1.65em",
+      "text-color": "rgba(245,244,240,0.5)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "â",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "20px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "300",
+      "line-height": "1em",
+      "text-alignment": "center",
+      "text-color": "#7C6FFF"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Calm workspace",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "17px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "-0.3px",
+      "line-height": "1.2em",
+      "text-color": "#F5F4F0"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "A focused, distraction-free environment designed to help you think clearly.",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "14px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1.65em",
+      "text-color": "rgba(245,244,240,0.5)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "ML Revision",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "12px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "-0.2px",
+      "line-height": "1.3em",
+      "text-color": "#1A1A2E"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Project Ideas",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "12px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "-0.2px",
+      "line-height": "1.3em",
+      "text-color": "#2D1B69"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Weekend Plans",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "12px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "-0.2px",
+      "line-height": "1.3em",
+      "text-color": "#2A1800"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Research Notes",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "12px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "-0.2px",
+      "line-height": "1.3em",
+      "text-color": "#0A2A4A"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Book Summary",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "12px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "-0.2px",
+      "line-height": "1.3em",
+      "text-color": "#0A2A14"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Daily Journal",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "12px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "-0.2px",
+      "line-height": "1.3em",
+      "text-color": "#2A0A1A"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "ORGANIZE",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "11px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "0.1em",
+      "line-height": "1em",
+      "text-color": "#9B8FFF",
+      "text-transform": "uppercase"
+    }
+  },
+  {
+    "tag": "h2",
+    "text": "From scattered ideas to clear thinking.",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "44px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "700",
+      "letter-spacing": "-1.2px",
+      "line-height": "1.1em",
+      "text-color": "#F5F4F0"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Noteflow intelligently organizes your notes so you can find exactly what youâre looking for â even when you donât remember where you put it.",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "16px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1.65em",
+      "text-color": "rgba(245,244,240,0.5)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "10Ã",
+    "vars": {
+      "font-family": "&quot",
+      "font-open-type-features": "'tnum' on",
+      "font-size": "32px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "700",
+      "letter-spacing": "-0.5px",
+      "line-height": "1em",
+      "text-color": "#F5F4F0"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Faster recall",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(245,244,240,0.45)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "â",
+    "vars": {
+      "font-family": "&quot",
+      "font-open-type-features": "'tnum' on",
+      "font-size": "32px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "700",
+      "letter-spacing": "-0.5px",
+      "line-height": "1em",
+      "text-color": "#F5F4F0"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Notes, no limits",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(245,244,240,0.45)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "1 tap",
+    "vars": {
+      "font-family": "&quot",
+      "font-open-type-features": "'tnum' on",
+      "font-size": "32px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "700",
+      "letter-spacing": "-0.5px",
+      "line-height": "1em",
+      "text-color": "#F5F4F0"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "To capture",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(245,244,240,0.45)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "YOUR WORKSPACE",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "11px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "0.1em",
+      "line-height": "1em",
+      "text-alignment": "center",
+      "text-color": "#9B8FFF",
+      "text-transform": "uppercase"
+    }
+  },
+  {
+    "tag": "h2",
+    "text": "A personal workspace built to think in.",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "52px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "700",
+      "letter-spacing": "-1.5px",
+      "line-height": "1.1em",
+      "text-alignment": "center",
+      "text-color": "#F5F4F0"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Noteflow",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "16px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "700",
+      "letter-spacing": "-0.3px",
+      "line-height": "1em",
+      "text-color": "rgb(245, 244, 240)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "All Notes",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "500",
+      "line-height": "1em",
+      "text-color": "rgb(155, 143, 255)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Recent",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(245, 244, 240, 0.5)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Starred",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(245, 244, 240, 0.5)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Trash",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(245, 244, 240, 0.5)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "TAGS",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "10px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "0.1em",
+      "line-height": "1em",
+      "text-color": "rgba(245,244,240,0.3)",
+      "text-transform": "uppercase"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "#machine-learning",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "12px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(245,244,240,0.4)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "#projects",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "12px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(245,244,240,0.4)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "#personal",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "12px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(245,244,240,0.4)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "#research",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "12px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(245,244,240,0.4)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "â",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "16px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(245,244,240,0.35)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Search notesâ¦",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(245,244,240,0.3)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "+ New Note",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "500",
+      "line-height": "1em",
+      "text-color": "#FFFFFF"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Nov 20",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "10px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(26, 26, 46, 0.45)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Machine Learning Revision",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "-0.2px",
+      "line-height": "1.3em",
+      "text-color": "rgb(26, 26, 46)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Gradient descent, backprop, CNNs, transformers â revision notes for finals",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "11px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1.6em",
+      "text-color": "rgba(26, 26, 46, 0.5)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "#machine-learning",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "10px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "500",
+      "line-height": "1em",
+      "text-color": "#7C6FFF"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Nov 20",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "10px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(45, 27, 105, 0.45)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Project Ideas",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "-0.2px",
+      "line-height": "1.3em",
+      "text-color": "rgb(45, 27, 105)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Campus nav app, stress detection with WESAD dataset, urban planning MERN stack",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "11px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1.6em",
+      "text-color": "rgba(45, 27, 105, 0.5)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "#projects",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "10px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "500",
+      "line-height": "1em",
+      "text-color": "#9B8FFF"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Nov 20",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "10px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(42, 24, 0, 0.45)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Weekend Plans",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "-0.2px",
+      "line-height": "1.3em",
+      "text-color": "rgb(42, 24, 0)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Morning run, finish reading, guitar session, check flight details",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "11px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1.6em",
+      "text-color": "rgba(42, 24, 0, 0.5)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "#personal",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "10px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "500",
+      "line-height": "1em",
+      "text-color": "#F5A623"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Nov 20",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "10px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(10, 42, 74, 0.45)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Research Notes",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "-0.2px",
+      "line-height": "1.3em",
+      "text-color": "rgb(10, 42, 74)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "VitaStress dataset â multimodal gated fusion architecture notes",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "11px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1.6em",
+      "text-color": "rgba(10, 42, 74, 0.5)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "#research",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "10px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "500",
+      "line-height": "1em",
+      "text-color": "#3B9EFF"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Nov 20",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "10px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(10, 42, 20, 0.45)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Things to Remember",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "-0.2px",
+      "line-height": "1.3em",
+      "text-color": "rgb(10, 42, 20)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Call advisor, submit lab report Friday, haircut appointment next week",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "11px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1.6em",
+      "text-color": "rgba(10, 42, 20, 0.5)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "#personal",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "10px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "500",
+      "line-height": "1em",
+      "text-color": "#3DD68C"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Nov 20",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "10px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(245,244,240,0.3)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Daily Journal",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "600",
+      "letter-spacing": "-0.2px",
+      "line-height": "1.3em",
+      "text-color": "rgb(245, 244, 240)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Reflecting on the day â grateful for productive study session",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "11px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1.6em",
+      "text-color": "rgba(245, 244, 240, 0.45)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "#personal",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "10px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "500",
+      "line-height": "1em",
+      "text-color": "#FF6B9D"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Free to start. No credit card required.",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgb(155, 143, 255)"
+    }
+  },
+  {
+    "tag": "h2",
+    "text": "Make space for your next idea.",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "72px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "700",
+      "letter-spacing": "-2.5px",
+      "line-height": "1.07em",
+      "text-alignment": "center",
+      "text-color": "#F5F4F0"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Join thousands of thinkers whoâve found a calmer way to work.",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "18px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1.5em",
+      "text-alignment": "center",
+      "text-color": "rgba(245,244,240,0.5)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Start writing â itâs free",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "17px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "500",
+      "line-height": "1em",
+      "text-color": "#FFFFFF"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Noteflow",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "18px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "700",
+      "letter-spacing": "-0.3px",
+      "line-height": "1em",
+      "text-color": "rgb(245, 244, 240)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Your thoughts, beautifully organized.",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(245,244,240,0.35)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Â© 2026 Noteflow. Built with care.",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "11px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(245,244,240,0.3)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Features",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(245,244,240,0.4)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "How it works",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(245,244,240,0.4)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "About",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(245,244,240,0.4)"
+    }
+  },
+  {
+    "tag": "p",
+    "text": "Login",
+    "vars": {
+      "font-family": "&quot",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variation-axes": "normal",
+      "font-weight": "400",
+      "line-height": "1em",
+      "text-color": "rgba(245,244,240,0.4)"
+    }
+  }
+]
